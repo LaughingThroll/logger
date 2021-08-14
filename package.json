@@ -2,7 +2,7 @@
   "name": "logger-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://laughingthroll.github.io/logger-redux",
+  "homepage": "http://laughingthroll.github.io/logger",
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.1",
     "@testing-library/jest-dom": "^5.14.1",
